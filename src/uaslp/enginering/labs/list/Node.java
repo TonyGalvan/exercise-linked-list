@@ -12,7 +12,7 @@ public class Node {
     }
 
     public Student getStudent() {
-        return student;
+        return null;
     }
 
     public void setPrevious(Node previous){
@@ -20,7 +20,7 @@ public class Node {
     }
 
     public Node getPrevious(){
-        return previous;
+        return null;
     }
 
     public void setNext(Node next){
@@ -28,7 +28,7 @@ public class Node {
     }
 
     public Node getNext(){
-        return next;
+        return null;
     }
 
 }
