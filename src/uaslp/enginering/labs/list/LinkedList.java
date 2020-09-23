@@ -37,4 +37,8 @@ public class LinkedList {
 
     }
 
+    //Inner class
+    public static class Iterator{
+
+    }
 }
